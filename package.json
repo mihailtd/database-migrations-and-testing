@@ -1,0 +1,18 @@
+{
+  "name": "database-migrations-and-testing",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "gm": "graphile-migrate"
+  },
+  "type": "module",
+  "dependencies": {
+    "graphile-migrate": "^1.4.1",
+    "pg": "^8.11.3"
+  }
+}

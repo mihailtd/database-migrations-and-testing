@@ -1,6 +1,6 @@
 # database-migrations-and-testing
 
-This repo is a companion to the YouTube video: [Database Migrations and Testing Video](), and it is a simple project to demonstrate how to use database migrations and testing in a NodeJS / Bun project.
+This repo is a companion to the YouTube video: [Database Migrations and Testing Video](https://youtu.be/vf7hDdYJQoA), and it is a simple project to demonstrate how to use database migrations and testing in a NodeJS / Bun project.
 
 I am using graphile-migrate for database migrations which is a tool that allows you to manage your PostgreSQL database schema using a simple version-controlled workflow.
 
